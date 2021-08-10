@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expense-trekker/static/css/main.78658ec3.chunk.css",
+    "main.js": "/expense-trekker/static/js/main.8f4cbd10.chunk.js",
+    "main.js.map": "/expense-trekker/static/js/main.8f4cbd10.chunk.js.map",
+    "runtime-main.js": "/expense-trekker/static/js/runtime-main.0c4db618.js",
+    "runtime-main.js.map": "/expense-trekker/static/js/runtime-main.0c4db618.js.map",
+    "static/js/2.eeb6a7be.chunk.js": "/expense-trekker/static/js/2.eeb6a7be.chunk.js",
+    "static/js/2.eeb6a7be.chunk.js.map": "/expense-trekker/static/js/2.eeb6a7be.chunk.js.map",
+    "index.html": "/expense-trekker/index.html",
+    "static/css/main.78658ec3.chunk.css.map": "/expense-trekker/static/css/main.78658ec3.chunk.css.map",
+    "static/js/2.eeb6a7be.chunk.js.LICENSE.txt": "/expense-trekker/static/js/2.eeb6a7be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4db618.js",
+    "static/js/2.eeb6a7be.chunk.js",
+    "static/css/main.78658ec3.chunk.css",
+    "static/js/main.8f4cbd10.chunk.js"
+  ]
+}
